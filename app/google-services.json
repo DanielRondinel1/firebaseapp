@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829525592866",
+    "firebase_url": "https://upcmiercoles1-default-rtdb.firebaseio.com",
+    "project_id": "upcmiercoles1",
+    "storage_bucket": "upcmiercoles1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829525592866:android:aab0d49cca33f3c93bb37b",
+        "android_client_info": {
+          "package_name": "com.drondinel.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829525592866-a02v53sdce4nkqjf411ke1gkc60bt7td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oKaFPri6wUKf9IlcPNB2Bg4OuyRN1JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829525592866-a02v53sdce4nkqjf411ke1gkc60bt7td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
